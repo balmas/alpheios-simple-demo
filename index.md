@@ -7,4 +7,11 @@ multa quoque et bellō passūs, dum conderet urbem,<br/>
 inferretque deōs Latiō, genus unde Latīnum,<br/>
 Albānīque patrēs, atque altae moenia Rōmae.<br/>
 </p>
+<p lang="grc" class="alpheios-enabled">
+ἄνδρα μοι ἔννεπε, μοῦσα, πολύτροπον, ὃς μάλα πολλὰ<br/>
+πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσεν:<br/>
+πολλῶν δ᾽ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,<br/>
+πολλὰ δ᾽ ὅ γ᾽ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,<br/>
+5ἀρνύμενος ἥν τε ψυχὴν καὶ νόστον ἑταίρων.<br/>
+</p>
 
