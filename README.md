@@ -2,7 +2,7 @@
 
 This repository demonstrates how the [Alpheios Embedded Library](https://github.com/alpheios-project/embed-lib) can be used in a [GitHub pages](https://pages.github.com/) site using a default responsive theme.
 
-The embedded library is added to the page in the default layout.html, via the following lines:
+The embedded library is added to the page in the default layout (in [_layouts/default.html](_layouts/default.html)), via the following lines:
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/alpheios-embedded@1.0.0-beta.0/dist/style/style.css"/>
@@ -16,7 +16,7 @@ The embedded library is added to the page in the default layout.html, via the fo
 
 ```
 
-The text in index.md is enabled for Alpheios by specifying the `.alpheios-enabled` class on the text, and the ISO 639-2 3 character language code:
+The text in [index.md](index.md) is enabled for Alpheios by specifying the `.alpheios-enabled` class on the text, and the ISO 639-2 3 character language code:
 
 ```
 <p lang="lat" class="alpheios-enabled">
