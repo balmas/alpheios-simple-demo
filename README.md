@@ -1,1 +1,0 @@
-# Alpheios Embedded Library Demo
