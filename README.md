@@ -1,6 +1,6 @@
 # alpheios-embed-demo
 
-This repository demonstrates how the [Alpheios Embedded Library](https://github.com/alpheios-project/embed-lib) can be used in a [GitHub pages](https://pages.github.com/) site using a default responsive theme.
+This repository demonstrates how the [Alpheios Embedded Library](https://github.com/alpheios-project/embed-lib) can be used in a simple [GitHub pages](https://pages.github.com/) site with the Cayman responsive theme.
 
 The embedded library is added to the page in the default layout (in [_layouts/default.html](_layouts/default.html)), via the following lines:
 
