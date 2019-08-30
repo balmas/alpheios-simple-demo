@@ -18,14 +18,14 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ '/node_build/alpheios-components/dist/style-components.css' | relative_url }}"/>
+    <link rel="stylesheet" href="{{ '/node_modules/alpheios-components/dist/style-components.css' | relative_url }}"/>
 
 
   </head>
   <body>
    <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", function(event) {
-      import ("{{'/node_build/alpheios-embedded/dist/alpheios-embedded.js' | relative_url}}").then(embedLib => {
+      import ("{{'/node_modules/alpheios-embedded/dist/alpheios-embedded.js' | relative_url}}").then(embedLib => {
 
         window.AlpheiosEmbed.importDependencies({ mode: 'development' }).then(Embedded => {
           new Embedded({clientId: 'alpheios-dev-simple', authEnv: null, simpleMode: true }).activate();
