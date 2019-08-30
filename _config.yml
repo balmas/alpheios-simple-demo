@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Alpheios Embedded Library Simple Mode Demo Site
+title: Alpheios Embedded Library Simple Mode Demo 
 description: A demonstration using Alpheios embed-lib on a Github pages site.
 include: [node_modules]
-keep_files: [node_modules]
+keep_files: [node_modules, test]
